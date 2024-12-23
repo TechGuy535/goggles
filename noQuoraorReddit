@@ -1,0 +1,6 @@
+! name: Remove annoying Forums
+! description: Remove Reddit and Quora
+! public: false
+! author: me
+$discard,site=reddit.com
+$discard,site=quora.com
