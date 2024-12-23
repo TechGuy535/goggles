@@ -4,3 +4,17 @@
 ! author: me
 $discard,site=reddit.com
 $discard,site=quora.com
+$discard,site=nytimes.com
+$discard,site=cnn.com
+$discard,site=msnbc.com
+$discard,site=wikipedia.org
+$discard,site=bbc.com
+$discard,site=apnews.com
+$discard,site=axios.com
+$discard,site=theguardian.com
+$discard,site=thedailybeast.com
+$discard,site=newsweek.com
+$discard,site=npr.org
+$discard,site=nbcnews.com
+$discard,site=politico.com
+$discard,site=washingtonpost.com
