@@ -6,6 +6,7 @@
 $boost=3,site=rumble.com
 $boost=3,site=bitchute.com
 $boost=3,site=americanthinker.com
+$boost=3,site=thenewamerican.com
 
 $discard,site=wikipedia.org
 $discard,site=reddit.com
