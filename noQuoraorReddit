@@ -2,6 +2,7 @@
 ! description: Remove Reddit and Quora
 ! public: false
 ! author: me
+$discard,site=wikipedia.org
 $discard,site=reddit.com
 $discard,site=quora.com
 $discard,site=nytimes.com
