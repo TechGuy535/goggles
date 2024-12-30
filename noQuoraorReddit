@@ -2,6 +2,10 @@
 ! description: Remove Reddit and Quora
 ! public: false
 ! author: me
+
+$boost=3,site=rumble.com
+$boost=3,site=bitchute.com
+
 $discard,site=wikipedia.org
 $discard,site=reddit.com
 $discard,site=quora.com
@@ -20,6 +24,3 @@ $discard,site=nbcnews.com
 $discard,site=politico.com
 $discard,site=washingtonpost.com
 $discard,site=google.com
-
-$boost=5,site=rumble.com
-$boost=5,site=bitchute.com
