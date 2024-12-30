@@ -4,10 +4,9 @@
 ! author: me
 
 $boost=3,site=rumble.com
-$boost=3,site=bitchute.com
 $boost=3,site=americanthinker.com
 $boost=3,site=thenewamerican.com
-$boost=3,site=thepostmillennial.com/
+$boost=3,site=thepostmillennial.com
 
 $discard,site=wikipedia.org
 $discard,site=reddit.com
