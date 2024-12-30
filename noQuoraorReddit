@@ -21,5 +21,5 @@ $discard,site=politico.com
 $discard,site=washingtonpost.com
 $discard,site=google.com
 
-$boost=3,site=rumble.com
-$boost=3,site=bitchute.com
+$boost=5,site=rumble.com
+$boost=5,site=bitchute.com
