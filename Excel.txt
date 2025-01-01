@@ -1,0 +1,16 @@
+excel
+
+The ribbon all of the minibars and the buttons.
+how is a workbook structured. A file in excel that continues many worksheets
+workbook structure
+
+Center across selection is better than merge cells.
+ctrl key to select multiple ranges
+
+you can merge cells or center across selection. Center across selection is generally thought as better.
+format cells --> align center across selection.
+
+wrap text will show you the full text in the formula bar as compared to alt + tab which only shows you first row.
+you can wrap text in the format options.
+
+The reason that excel formats 5/12/2024 as a number is its the amount of days since 1900. You can get the data back by formatting it as a date.

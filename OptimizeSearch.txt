@@ -1,0 +1,33 @@
+! name: OptimizeSearch
+! description: Remove garbage websites and re-internet the internet.
+! public: false
+! author: me
+
+$boost=3,site=rumble.com
+$boost=3,site=americanthinker.com
+$boost=3,site=thenewamerican.com
+$boost=3,site=thepostmillennial.com
+
+! boost some good tech sites.
+$boost=3,site=howtogeek.com
+$boost=3,site=makeuseof.com
+$boost=3,site=xda-developers.com
+
+$discard,site=wikipedia.org
+$discard,site=reddit.com
+$discard,site=quora.com
+$discard,site=nytimes.com
+$discard,site=cnn.com
+$discard,site=msnbc.com
+$discard,site=wikipedia.org
+$discard,site=bbc.com
+$discard,site=apnews.com
+$discard,site=axios.com
+$discard,site=theguardian.com
+$discard,site=thedailybeast.com
+$discard,site=newsweek.com
+$discard,site=npr.org
+$discard,site=nbcnews.com
+$discard,site=politico.com
+$discard,site=washingtonpost.com
+$discard,site=google.com

@@ -1,0 +1,61 @@
+Visual Studio 2022
+
+ctrl + shift + a to add a new item.
+place your cursor on the line you want to copy and press ctrl + c and then you can ctrl + v to next line.
+ctrl + d to duplicate line
+alt + shift + up/down arrow to create a vertical cursor. this is useful to comment code.
+left click and then press alt + shift and then left/right arrow to have a vertical cursor to comment code.
+alt + enter, ctrl + . for quick actions.
+ctrl + spacebar for intellisense.
+ctrl + f5 to run.
+ctrl + shift + b to build.
+ctrl + k, ctrl + d to format document doesn't format object or collection intializers.
+ctrl + l to delete a line but not copy it.
+ctrl + x to delete a line and copy it.
+code snippets all following proceed with tab tab and alt + t to get only snippets.
+  - cw tab tab to Console.WriteLine()
+  - prop create a property
+  - propg create a read only property
+  - for create a for loop
+  - while create a while loop
+  - foreach create foreach
+  - ctor create constructor
+ctrl + r,r to rename all instance of a member.
+ctrl +r/m refactor into method(must highlight what you want to refactor)
+ctor block into a method.
+ctrl + - to go back
+ctrl + shift + - to go forward
+ctrl + ] to find closing and open brace
+ctrl + shift + ] to highlight all text between curly braces.
+
+
+f12 to go to definition.
+//the following is how you find all usages of a class or method in different files.
+shift + F12 find usage in whole solution.
+
+
+ctrl + enter add a new line above cursor.
+ctrl + shift + enter add a new line below cursor.
+shift + delete to delete line and move cursor back to where you were.
+cursor inside parenthesis and then ctrl + shift + space (using right hand for control + shift and left for space is easier.)
+ctrl + k,r f find all instances
+f8 to cycle through lists.
+try to use ctrl + t for find all
+
+Debugging
+ctrl + f10 to debug until cursor
+f9 insert a breakpoint.
+f5 to debug.
+debug --> windows to get locals,auto, and watch.
+step into f11 will step you in a method and add a member to the call stack.
+step over f10 means go to the next line.
+step out shift f11 brings us one level up the call stack.
+Can't step into system defined methods.
+conditional breakpoints put the breakpoint in the body and then you can set it to what you think it should be.
+shift + f5 to stop debugging.
+
+Custom Visual Studio 2022 keyboard shortcuts
+1. Tools --> options --> Environment --> Keyboard or ctrl + q Keyboard
+  - File.OpenContainingFolder --> ctrl + shift + q
+2. Text Editor --> Display --> Automatically surround selections when typing quotes.
+3. Tools --> options --> projects and solutions --> track active item in solution explorer.

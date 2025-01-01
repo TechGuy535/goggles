@@ -1,0 +1,19 @@
+As you are mastering you want to feel comfortable with your fingers on keys. If you are hitting the edges of keys and 
+you are not even sure that you are hitting the right keys and you feel like you are getting lucky. You are not quite
+there yet.
+
+Drills
+The idea that you want to try to move your finger 25 to 50 times as practice between hard finger movements.
+place your fingers on the home row with your right hands index finger on j
+move your finger from j to 6 and back again without moving your hand.
+A way to drill this is open a text file and then do this
+j^j^j^j^j^j^j^j^j^j^_j^j^j^j^j^j^j^j^j^j^j^j^j^j^j^j^j^j^j^j^j^
+j --> shift + 6
+semicolon --> dash
+semicolon --> equal
++ --> )
+
+This is an idea that I found helps when you lose where your hands are when typing hard things.
+normalize your hands on the home row.
+to find left brackets and braces move your pinky diagonally once you are normalized.
+to find the right bracket and braces

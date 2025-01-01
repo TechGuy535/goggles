@@ -1,0 +1,57 @@
+a repository is a collection of code that is related to the same thing.
+You want to do git init in the folder that contains your code not in a drive root.
+
+1. git init create a new repository
+2. git add --all whenever you create or delete a file.
+3. git commit -am "learned that I could pass arguments to methods"
+4. git log --oneline
+
+The hex is a hash of the commit for the repository.
+
+if You create a new file make sure you do both 2 and 3.
+Head is where you are right now.
+
+git status shows current
+git status will show you files that haven't been added yet.
+
+
+Now I am going to create a new file and I am going to put some code in it.
+I don't want to commit yet. I want to test before I commit.
+
+okay so now what I want to do is I want to checkout to my last working commit to change the mess that I created back.
+but I didn't want to get rid of the old code, So I could commit the old code anyway and then checkout to the working code. or would I use stash for something for this.
+
+
+what does git stash do? How do I look at the stash box.
+git stash is for code that I don't want to get rid of but is currently breaking my code.
+
+git stash
+git status no changes after a stash
+
+git log --oneline
+
+git checkout master goes to most recent commit.
+
+git stash pop. You should be on master. its going to pop the stash onto somewhere you might not want
+
+git checkout -b experiment (-b means create a new branch)
+
+now commit new changes to the new branch. git commit -am "put a descriptive message here."
+
+git branch will show you all of the branches.
+
+git checkout master
+
+git merge "branch name"
+
+git checkout "branch name"
+
+
+git checkout master
+
+git merge experiment
+
+git difftool
+
+
+

@@ -1,0 +1,62 @@
+text navigation and selection
+
+home/end to move to end of current line.
+shift + home/end to highlight from beginning to end.
+ctrl + x, ctrl + y to undo and redo
+ctrl + shift + left/right arrow highlight words.
+alt + shift to select multiple lines
+click in an application and then hold shift and left click after to highlight start to finish.
+hold alt and select to box highlight
+left click at start and then alt + shift and end point to box highlight without holding alt.
+ctrl + d to duplicate line
+place your cursor on the line you want to copy and press ctrl + c and then you can ctrl + v to next line.
+
+browser shortcuts and searching.
+
+alt + left/right arrow key to go back and forward.
+ctrl + tab to cycle through tabs.
+ctrl + shift + o bookmark manager.
+ctrl + left click to open link in new tab
+ctrl + d to bookmark
+ctrl + j for downloads
+ctrl + b to open and close reading list.
+ctrl + shift + b to hide/unhide bookmarks
+ctrl + shift + t to open a recently closed tab.
+ctrl + w to close a tab.
+ctrl + t open new tab
+ctrl + h history
+ctrl + k/ctrl + e to put your cursor in omni and change it to default search engine.
+ctrl + l put your cursor in the omni.
+f5, (ctrl + r) reload the page
+(ctrl + Shift + r),(ctrl + f5),(shift + f5) reload the page and ignore the cache.
+:b + tab to search with bing
+in order to see all browser shortcuts in brave
+  - 3 bar menu
+  - settings
+  - search engine
+  - manage search engines and site search
+site:ine.com BGP to filter your searches to just ine and search BGP.
+in omni shift+delete to get rid of annoying autocorrecting links.
+the back button will take your history out of your back/forward button cache. If you just ctrl+k/ctrl +l/ctrl+e you can not lose any of your history.
+f12 developer tools.
+f11 full screen mode.
+
+windows shortcuts.
+
+ctrl + alt + tab to show all of your applications that are open.
+ctrl + alt shows you all of your applications but will disappear when you let go.
+
+ctrl + shift + escape
+Windows + G gaming mode easy to find volume this way.
+Windows + E open file explorer
+ctrl + Windows + enter to shut off narrator.
+windows + shift + s to snip.
+alt + print screen will take a screenshot of your current application.
+ctrl + alt + printscreen will take a screenshot of your current monitor
+print screen takes a screenshot of all of your monitors.
+f2 to rename selected item.
+
+Excel shortcuts
+to insert a new line into an excel cell alt + enter
+
+
