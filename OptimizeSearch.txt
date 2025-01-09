@@ -13,6 +13,7 @@ $boost=3,site=howtogeek.com
 $boost=3,site=makeuseof.com
 $boost=3,site=xda-developers.com
 
+$discard,site=desiringgod.org
 $discard,site=wikipedia.org
 $discard,site=reddit.com
 $discard,site=quora.com
